@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="back" type="id" />
+    <item name="vehicleTitle" type="id" />
+    <item name="available" type="id" />
+    <item name="notAvailable" type="id" />
+    <item name="year" type="id" />
+    <item name="manufacturer" type="id" />
+    <item name="model" type="id" />
+    <item name="mileage" type="id" />
+    <item name="seats" type="id" />
+    <item name="type" type="id" />
+    <item name="vehiclePrice" type="id" />
+</resources>
